@@ -58,6 +58,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kawserhamim/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/kawserhamim/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kawserhamim/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/kawserhamim/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Stack
 |  |
 | ------- |
@@ -72,12 +73,14 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/kawserhamim/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/kawserhamim/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kawserhamim/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/kawserhamim/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kawserhamim/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/kawserhamim/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kawserhamim/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/kawserhamim/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
