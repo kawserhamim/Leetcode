@@ -35,6 +35,7 @@
 | [0198-house-robber](https://github.com/kawserhamim/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kawserhamim/Leetcode/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/kawserhamim/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0966-binary-subarrays-with-sum](https://github.com/kawserhamim/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/kawserhamim/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 ## Combinatorics
 |  |
@@ -67,8 +68,14 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kawserhamim/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0966-binary-subarrays-with-sum](https://github.com/kawserhamim/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kawserhamim/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0966-binary-subarrays-with-sum](https://github.com/kawserhamim/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/kawserhamim/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
