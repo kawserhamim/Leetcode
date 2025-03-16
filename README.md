@@ -39,6 +39,7 @@
 | [0120-triangle](https://github.com/kawserhamim/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/kawserhamim/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kawserhamim/Leetcode/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/kawserhamim/Leetcode/tree/master/0229-majority-element-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/kawserhamim/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/kawserhamim/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/kawserhamim/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kawserhamim/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0229-majority-element-ii](https://github.com/kawserhamim/Leetcode/tree/master/0229-majority-element-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/kawserhamim/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kawserhamim/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kawserhamim/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -93,4 +95,12 @@
 | [0966-binary-subarrays-with-sum](https://github.com/kawserhamim/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kawserhamim/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kawserhamim/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/kawserhamim/Leetcode/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/kawserhamim/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
