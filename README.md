@@ -12,6 +12,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kawserhamim/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/kawserhamim/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kawserhamim/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kawserhamim/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -34,6 +35,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kawserhamim/Leetcode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/kawserhamim/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kawserhamim/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/kawserhamim/Leetcode/tree/master/0118-pascals-triangle) |
@@ -108,4 +110,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/kawserhamim/Leetcode/tree/master/0229-majority-element-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kawserhamim/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
