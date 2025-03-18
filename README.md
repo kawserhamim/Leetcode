@@ -52,6 +52,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/kawserhamim/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kawserhamim/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kawserhamim/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2102-find-the-middle-index-in-array](https://github.com/kawserhamim/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 ## Combinatorics
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/kawserhamim/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kawserhamim/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kawserhamim/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2102-find-the-middle-index-in-array](https://github.com/kawserhamim/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 ## Sorting
 |  |
 | ------- |
