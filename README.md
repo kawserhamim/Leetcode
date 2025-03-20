@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kawserhamim/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/kawserhamim/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/kawserhamim/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/kawserhamim/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kawserhamim/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kawserhamim/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/kawserhamim/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/kawserhamim/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kawserhamim/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/kawserhamim/Leetcode/tree/master/0118-pascals-triangle) |
@@ -88,6 +90,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/kawserhamim/Leetcode/tree/master/0055-jump-game) |
 | [0876-hand-of-straights](https://github.com/kawserhamim/Leetcode/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kawserhamim/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
