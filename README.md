@@ -51,6 +51,7 @@
 | [0238-product-of-array-except-self](https://github.com/kawserhamim/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0416-partition-equal-subset-sum](https://github.com/kawserhamim/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/kawserhamim/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0876-hand-of-straights](https://github.com/kawserhamim/Leetcode/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/kawserhamim/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/kawserhamim/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/kawserhamim/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -87,6 +88,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0876-hand-of-straights](https://github.com/kawserhamim/Leetcode/tree/master/0876-hand-of-straights) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kawserhamim/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Hash Table
 |  |
@@ -95,6 +97,7 @@
 | [0229-majority-element-ii](https://github.com/kawserhamim/Leetcode/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/kawserhamim/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/kawserhamim/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0876-hand-of-straights](https://github.com/kawserhamim/Leetcode/tree/master/0876-hand-of-straights) |
 | [0966-binary-subarrays-with-sum](https://github.com/kawserhamim/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kawserhamim/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kawserhamim/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -124,6 +127,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/kawserhamim/Leetcode/tree/master/0229-majority-element-ii) |
+| [0876-hand-of-straights](https://github.com/kawserhamim/Leetcode/tree/master/0876-hand-of-straights) |
 ## Counting
 |  |
 | ------- |
