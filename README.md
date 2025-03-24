@@ -86,6 +86,7 @@
 | [1281-can-make-palindrome-from-substring](https://github.com/kawserhamim/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kawserhamim/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kawserhamim/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kawserhamim/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/kawserhamim/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kawserhamim/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kawserhamim/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kawserhamim/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kawserhamim/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/kawserhamim/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2358-number-of-ways-to-split-array](https://github.com/kawserhamim/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kawserhamim/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -155,4 +158,8 @@
 |  |
 | ------- |
 | [1281-can-make-palindrome-from-substring](https://github.com/kawserhamim/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
+## Enumeration
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kawserhamim/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
