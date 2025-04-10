@@ -191,6 +191,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kawserhamim/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kawserhamim/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/kawserhamim/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/kawserhamim/Leetcode/tree/master/0904-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -209,6 +210,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kawserhamim/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kawserhamim/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/kawserhamim/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/kawserhamim/Leetcode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/kawserhamim/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kawserhamim/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/kawserhamim/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/kawserhamim/Leetcode/tree/master/0904-leaf-similar-trees) |
 ## Backtracking
 |  |
 | ------- |
