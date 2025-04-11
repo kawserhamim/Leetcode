@@ -55,6 +55,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kawserhamim/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kawserhamim/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/kawserhamim/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kawserhamim/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kawserhamim/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/kawserhamim/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kawserhamim/Leetcode/tree/master/0213-house-robber-ii) |
@@ -170,6 +171,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kawserhamim/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0907-koko-eating-bananas](https://github.com/kawserhamim/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/kawserhamim/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Bit Manipulation
@@ -226,4 +228,8 @@
 |  |
 | ------- |
 | [0216-combination-sum-iii](https://github.com/kawserhamim/Leetcode/tree/master/0216-combination-sum-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/kawserhamim/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
