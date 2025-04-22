@@ -65,6 +65,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kawserhamim/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0416-partition-equal-subset-sum](https://github.com/kawserhamim/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/kawserhamim/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kawserhamim/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/kawserhamim/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kawserhamim/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/kawserhamim/Leetcode/tree/master/0876-hand-of-straights) |
@@ -110,6 +111,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/kawserhamim/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kawserhamim/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/kawserhamim/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kawserhamim/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kawserhamim/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
@@ -241,4 +243,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kawserhamim/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/kawserhamim/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
