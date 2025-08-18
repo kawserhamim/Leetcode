@@ -59,6 +59,7 @@
 | [0135-candy](https://github.com/kawserhamim/Leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/kawserhamim/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kawserhamim/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/kawserhamim/Leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kawserhamim/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/kawserhamim/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kawserhamim/Leetcode/tree/master/0213-house-robber-ii) |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kawserhamim/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/kawserhamim/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kawserhamim/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kawserhamim/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kawserhamim/Leetcode/tree/master/0242-valid-anagram) |
@@ -180,6 +182,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kawserhamim/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kawserhamim/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kawserhamim/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/kawserhamim/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -187,6 +190,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/kawserhamim/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kawserhamim/Leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/kawserhamim/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/kawserhamim/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
@@ -194,6 +198,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kawserhamim/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/kawserhamim/Leetcode/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
 | ------- |
