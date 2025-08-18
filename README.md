@@ -46,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/kawserhamim/Leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/kawserhamim/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kawserhamim/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/kawserhamim/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -266,6 +267,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/kawserhamim/Leetcode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/kawserhamim/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kawserhamim/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Monotonic Stack
