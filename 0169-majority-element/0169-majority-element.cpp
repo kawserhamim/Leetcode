@@ -1,17 +1,18 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-    unordered_map<int,int>mp;
-    for(int i = 0 ; i < nums.size() ; i++)
+    sort(nums.begin(),nums.end());
+    int ans = nums[0] , x = 1, y = 1 ;
+    for(int i = 0 ; i < nums.size() - 1  ; i++)
     {
-        mp[nums[i]]++;
-    }   
-    priority_queue<pair<int,int>>pq;
-    for(auto &it : mp)
-    {
-      pq.push({it.second,it.first});
+       if(nums[i] == nums[i+1]) y++;
+       else y = 1 ;
+       if(y > x)
+       {
+         ans = nums[i];
+         x = y ;
+       }
     }
-    int n = pq.top().second;
-    return n ;
+    return ans ;
     }
 };
