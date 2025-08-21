@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/kawserhamim/Leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/kawserhamim/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kawserhamim/Leetcode/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/kawserhamim/Leetcode/tree/master/0279-perfect-squares) |
 | [1086-divisor-game](https://github.com/kawserhamim/Leetcode/tree/master/1086-divisor-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kawserhamim/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kawserhamim/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -32,6 +33,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kawserhamim/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/kawserhamim/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kawserhamim/Leetcode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/kawserhamim/Leetcode/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kawserhamim/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0392-is-subsequence](https://github.com/kawserhamim/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/kawserhamim/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -259,6 +261,7 @@
 | [0101-symmetric-tree](https://github.com/kawserhamim/Leetcode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kawserhamim/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/kawserhamim/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/kawserhamim/Leetcode/tree/master/0279-perfect-squares) |
 ## Binary Tree
 |  |
 | ------- |
