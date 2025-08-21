@@ -51,6 +51,7 @@
 | [0055-jump-game](https://github.com/kawserhamim/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/kawserhamim/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kawserhamim/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/kawserhamim/Leetcode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/kawserhamim/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kawserhamim/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kawserhamim/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -219,6 +220,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kawserhamim/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/kawserhamim/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/kawserhamim/Leetcode/tree/master/0191-number-of-1-bits) |
 | [1281-can-make-palindrome-from-substring](https://github.com/kawserhamim/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
@@ -282,6 +284,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kawserhamim/Leetcode/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/kawserhamim/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Two Pointers
 |  |
