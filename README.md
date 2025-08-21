@@ -8,6 +8,7 @@
 | [0009-palindrome-number](https://github.com/kawserhamim/Leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/kawserhamim/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kawserhamim/Leetcode/tree/master/0070-climbing-stairs) |
+| [1086-divisor-game](https://github.com/kawserhamim/Leetcode/tree/master/1086-divisor-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kawserhamim/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kawserhamim/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2032-largest-odd-number-in-string](https://github.com/kawserhamim/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -37,6 +38,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/kawserhamim/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kawserhamim/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0967-minimum-falling-path-sum](https://github.com/kawserhamim/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+| [1086-divisor-game](https://github.com/kawserhamim/Leetcode/tree/master/1086-divisor-game) |
 | [1250-longest-common-subsequence](https://github.com/kawserhamim/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kawserhamim/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kawserhamim/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -339,4 +341,12 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/kawserhamim/Leetcode/tree/master/0561-array-partition) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/kawserhamim/Leetcode/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/kawserhamim/Leetcode/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
