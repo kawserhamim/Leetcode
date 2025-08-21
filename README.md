@@ -31,6 +31,7 @@
 | [0198-house-robber](https://github.com/kawserhamim/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kawserhamim/Leetcode/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kawserhamim/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0392-is-subsequence](https://github.com/kawserhamim/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/kawserhamim/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/kawserhamim/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/kawserhamim/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -108,6 +109,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/kawserhamim/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kawserhamim/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/kawserhamim/Leetcode/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/kawserhamim/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/kawserhamim/Leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/kawserhamim/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/kawserhamim/Leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -292,6 +294,7 @@
 | [0031-next-permutation](https://github.com/kawserhamim/Leetcode/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/kawserhamim/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kawserhamim/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0392-is-subsequence](https://github.com/kawserhamim/Leetcode/tree/master/0392-is-subsequence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kawserhamim/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Monotonic Stack
 |  |
