@@ -201,6 +201,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/kawserhamim/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/kawserhamim/Leetcode/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/kawserhamim/Leetcode/tree/master/0191-number-of-1-bits) |
 ## Binary Search
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/kawserhamim/Leetcode/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/kawserhamim/Leetcode/tree/master/0191-number-of-1-bits) |
 | [1281-can-make-palindrome-from-substring](https://github.com/kawserhamim/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
 ## Enumeration
 |  |
