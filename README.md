@@ -82,6 +82,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/kawserhamim/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1281-can-make-palindrome-from-substring](https://github.com/kawserhamim/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kawserhamim/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1435-xor-queries-of-a-subarray](https://github.com/kawserhamim/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kawserhamim/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kawserhamim/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/kawserhamim/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
@@ -176,6 +177,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/kawserhamim/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1281-can-make-palindrome-from-substring](https://github.com/kawserhamim/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kawserhamim/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1435-xor-queries-of-a-subarray](https://github.com/kawserhamim/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kawserhamim/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kawserhamim/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/kawserhamim/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
@@ -214,6 +216,7 @@
 | [0137-single-number-ii](https://github.com/kawserhamim/Leetcode/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/kawserhamim/Leetcode/tree/master/0191-number-of-1-bits) |
 | [1281-can-make-palindrome-from-substring](https://github.com/kawserhamim/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
+| [1435-xor-queries-of-a-subarray](https://github.com/kawserhamim/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 ## Enumeration
 |  |
 | ------- |
