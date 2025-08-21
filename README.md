@@ -9,6 +9,7 @@
 | [0062-unique-paths](https://github.com/kawserhamim/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kawserhamim/Leetcode/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/kawserhamim/Leetcode/tree/master/0279-perfect-squares) |
+| [0343-integer-break](https://github.com/kawserhamim/Leetcode/tree/master/0343-integer-break) |
 | [1086-divisor-game](https://github.com/kawserhamim/Leetcode/tree/master/1086-divisor-game) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kawserhamim/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kawserhamim/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -35,6 +36,7 @@
 | [0213-house-robber-ii](https://github.com/kawserhamim/Leetcode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/kawserhamim/Leetcode/tree/master/0279-perfect-squares) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/kawserhamim/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0343-integer-break](https://github.com/kawserhamim/Leetcode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/kawserhamim/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/kawserhamim/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/kawserhamim/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
