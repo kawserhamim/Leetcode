@@ -67,6 +67,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kawserhamim/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kawserhamim/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kawserhamim/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/kawserhamim/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/kawserhamim/Leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/kawserhamim/Leetcode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/kawserhamim/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kawserhamim/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/kawserhamim/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/kawserhamim/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/kawserhamim/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/kawserhamim/Leetcode/tree/master/0229-majority-element-ii) |
@@ -378,4 +380,8 @@
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/kawserhamim/Leetcode/tree/master/1086-divisor-game) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/kawserhamim/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
