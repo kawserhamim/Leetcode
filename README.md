@@ -64,6 +64,7 @@
 | [0063-unique-paths-ii](https://github.com/kawserhamim/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kawserhamim/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/kawserhamim/Leetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/kawserhamim/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/kawserhamim/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/kawserhamim/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kawserhamim/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -220,6 +221,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/kawserhamim/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kawserhamim/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/kawserhamim/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/kawserhamim/Leetcode/tree/master/0242-valid-anagram) |
@@ -326,6 +328,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kawserhamim/Leetcode/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/kawserhamim/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/kawserhamim/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kawserhamim/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/kawserhamim/Leetcode/tree/master/0189-rotate-array) |
