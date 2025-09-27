@@ -6,6 +6,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/kawserhamim/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/kawserhamim/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/kawserhamim/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/kawserhamim/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kawserhamim/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/kawserhamim/Leetcode/tree/master/0189-rotate-array) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/kawserhamim/Leetcode/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/kawserhamim/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/kawserhamim/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kawserhamim/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/kawserhamim/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -112,6 +114,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/kawserhamim/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/kawserhamim/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kawserhamim/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/kawserhamim/Leetcode/tree/master/0967-minimum-falling-path-sum) |
