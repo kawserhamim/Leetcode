@@ -106,6 +106,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/kawserhamim/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/kawserhamim/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/kawserhamim/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1646-kth-missing-positive-number](https://github.com/kawserhamim/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2102-find-the-middle-index-in-array](https://github.com/kawserhamim/Leetcode/tree/master/2102-find-the-middle-index-in-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/kawserhamim/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2358-number-of-ways-to-split-array](https://github.com/kawserhamim/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -254,6 +255,7 @@
 | [0268-missing-number](https://github.com/kawserhamim/Leetcode/tree/master/0268-missing-number) |
 | [0907-koko-eating-bananas](https://github.com/kawserhamim/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/kawserhamim/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1646-kth-missing-positive-number](https://github.com/kawserhamim/Leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Bit Manipulation
 |  |
 | ------- |
