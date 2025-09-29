@@ -149,6 +149,7 @@
 | [1281-can-make-palindrome-from-substring](https://github.com/kawserhamim/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kawserhamim/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kawserhamim/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/kawserhamim/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/kawserhamim/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/kawserhamim/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
@@ -161,6 +162,7 @@
 | [0503-next-greater-element-ii](https://github.com/kawserhamim/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kawserhamim/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/kawserhamim/Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/kawserhamim/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
