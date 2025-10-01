@@ -1,34 +1,32 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-     deque<int>a,b,c;
-     int n = s.size();
-     for(int i = 0 ; i < n ; i++)
-     {
-        if(s[i]=='a')a.push_back(i+1);
-        else if(s[i]=='b')b.push_back(i+1);
-        else c.push_back(i+1);
-     } 
-     int ans = 0 ;
-     int d = a.size();
-     int e = b.size();
-     int f = c.size();
-     int g = min(d,min(e,f));
-     int i = 0 ;
-     while(g)
-     {
-       int u = max(a[0],max(b[0],c[0]));
-       int y = (n+1)-u;
-       ans += y ;
-       if(s[i]=='a')a.pop_front();
-       if(s[i]=='b')b.pop_front();
-       if(s[i]=='c')c.pop_front();
-      d = a.size();
-      e = b.size();
-      f = c.size();
-      g = min(d,min(e,f));
-      i++;
-     }   
-     return ans ;
+    int n = s.size();
+    unordered_map<char,deque<int>>mp;
+      for(int i = 0 ; i < s.size() ; i++){
+         mp[s[i]].push_back(i);
+      }
+      if(mp['a'].size() == 0 || mp['b'].size() == 0 || mp['c'].size() == 0)
+      return 0 ;
+      int ans =  0;
+      int x = max(mp['a'][0],mp['b'][0]);
+      int y = mp['c'][0];
+      x = max(x , y);
+      ans += (n - x);
+      for (int i = 0; i < n ; i++)
+      {
+         char c = s[i];
+         mp[s[i]].pop_front();
+         if(!mp[c].size())
+         {
+            break;
+         }else{
+      x = max(mp['a'][0],mp['b'][0]);
+      y = mp['c'][0];
+      x = max(x , y);
+      ans += (n - x);
+         }
+      }
+      return ans ;     
     }
 };
