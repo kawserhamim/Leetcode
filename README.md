@@ -131,6 +131,7 @@
 | [0013-roman-to-integer](https://github.com/kawserhamim/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/kawserhamim/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kawserhamim/Leetcode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kawserhamim/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0091-decode-ways](https://github.com/kawserhamim/Leetcode/tree/master/0091-decode-ways) |
 | [0151-reverse-words-in-a-string](https://github.com/kawserhamim/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/kawserhamim/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -344,6 +345,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kawserhamim/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/kawserhamim/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kawserhamim/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kawserhamim/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -383,6 +385,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kawserhamim/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/kawserhamim/Leetcode/tree/master/0812-rotate-string) |
 ## Bucket Sort
 |  |
