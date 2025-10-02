@@ -154,6 +154,7 @@
 | [1281-can-make-palindrome-from-substring](https://github.com/kawserhamim/Leetcode/tree/master/1281-can-make-palindrome-from-substring) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kawserhamim/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/kawserhamim/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1508-longest-happy-prefix](https://github.com/kawserhamim/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/kawserhamim/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/kawserhamim/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/kawserhamim/Leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -391,6 +392,7 @@
 | [0214-shortest-palindrome](https://github.com/kawserhamim/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/kawserhamim/Leetcode/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/kawserhamim/Leetcode/tree/master/0812-rotate-string) |
+| [1508-longest-happy-prefix](https://github.com/kawserhamim/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -423,8 +425,10 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/kawserhamim/Leetcode/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/kawserhamim/Leetcode/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/kawserhamim/Leetcode/tree/master/0214-shortest-palindrome) |
+| [1508-longest-happy-prefix](https://github.com/kawserhamim/Leetcode/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->
