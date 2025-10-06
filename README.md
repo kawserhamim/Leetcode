@@ -105,6 +105,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kawserhamim/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0792-binary-search](https://github.com/kawserhamim/Leetcode/tree/master/0792-binary-search) |
 | [0876-hand-of-straights](https://github.com/kawserhamim/Leetcode/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/kawserhamim/Leetcode/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/kawserhamim/Leetcode/tree/master/0907-koko-eating-bananas) |
 | [0966-binary-subarrays-with-sum](https://github.com/kawserhamim/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/kawserhamim/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -192,6 +193,7 @@
 | [0678-valid-parenthesis-string](https://github.com/kawserhamim/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/kawserhamim/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0876-hand-of-straights](https://github.com/kawserhamim/Leetcode/tree/master/0876-hand-of-straights) |
+| [0890-lemonade-change](https://github.com/kawserhamim/Leetcode/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/kawserhamim/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/kawserhamim/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Hash Table
