@@ -11,7 +11,7 @@ public:
             if (nums[mid] == nums[mid + 1]) {
                 left = mid + 2;
             } else {
-                right = mid;
+                right = mid - 1;
             }
         }
 
