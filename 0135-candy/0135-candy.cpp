@@ -2,40 +2,25 @@ class Solution {
 public:
     int candy(vector<int>& ratings) {
     int n = ratings.size();
-    int x = 0 ;
-    int i = 1 , ans = 0 ;
-    vector<int>v(20001,1);
-    while(i < n)
+    vector<int>v(n,1);
+    for(int i = 1 ; i < n ; i++)
     {
-      if(ratings[i] - ratings[i - 1] > 0)
-      {
-        v[i] =  1 + v[i - 1];
-        x = 1 ;
-      }
-      else{
-        if(x == 1 and ratings[i] < ratings[i-1])
+        if(ratings[i] > ratings[i-1])
         {
-          v[i-1]--;
-          x = 0 ;
+            v[i] = v[i-1] + 1 ;
         }
-       
-      }
-      i++;
-    }  
-    i = n - 2 ;
-    while(i >= 0)
+    }
+      for(int i = n - 2 ; i >= 0 ; i--)
     {
-
         if(ratings[i] > ratings[i+1])
         {
-            v[i] = 1 + max(v[i], v[i+1]);
+            v[i] = max(v[i+1] + 1,v[i]) ;
         }
-        i--;
-    }
-    for(int i = 0 ; i < n ; i++)
-    {
-        ans += v[i];
-    }
-    return ans ;
+    } 
+    int ans = 0 ;
+    for(auto it : v)
+    ans += it ;
+
+    return ans ;    
     }
 };
